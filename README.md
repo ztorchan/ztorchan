@@ -1,4 +1,4 @@
-Hi, I’m ztorchan.  
+Hi, this is ZTorChan.  
 
 ![](https://raw.githubusercontent.com/ztorchan/github-stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/ztorchan/github-stats/master/generated/languages.svg)  
