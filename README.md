@@ -1,4 +1,6 @@
-Hi, this is ZTorChan.  
+**Hi, this is ZTorChan**.  
+
+Here is my blog: [http://ztorchan.com/](http://ztorchan.com/)
 
 ![](https://raw.githubusercontent.com/ztorchan/github-stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/ztorchan/github-stats/master/generated/languages.svg)  
